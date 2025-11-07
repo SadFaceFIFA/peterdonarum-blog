@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo:*)",
+      "WebFetch(domain:themes.gohugo.io)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:docs.hugoblox.com)",
+      "Bash(git submodule:*)",
+      "Bash(git rm:*)",
+      "Bash(where go:*)",
+      "Bash(where:*)",
+      "Bash(mkdir:*)",
+      "mcp__figma__get_screenshot",
+      "Bash(cat:*)",
+      "WebSearch",
+      "WebFetch(domain:bootstrap.hugoblox.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
