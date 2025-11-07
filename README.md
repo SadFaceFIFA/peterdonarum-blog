@@ -1,4 +1,4 @@
-# Zachary Witte's Blog
+# Peter Donarum's Blog
 
 A personal blog built with Hugo, showcasing projects, thoughts on software development, and explorations in AI integrations.
 
