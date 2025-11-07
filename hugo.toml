@@ -1,6 +1,6 @@
-baseURL = 'https://zacharywitte.com/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
-title = 'Zachary Witte'
+title = 'Peter Donarum'
 theme = 'PaperMod'
 
 [markup]
